@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2020-09-13 14:05+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: autobrightness/backend/powercfg.py:27
+msgid "powercfg is only for Windows!"
+msgstr ""
+
+#: autobrightness/backend/powercfg.py:108
+msgid "Display Brightness GUID:"
+msgstr ""
+
+#: autobrightness/backend/sysfs.py:24
+msgid " is not writable!"
+msgstr ""
+
+#: autobrightness/backend/sysfs.py:83
+msgid "Interface:"
+msgstr ""
+
+#: autobrightness/brightness.py:27
+msgid "Can't open video device"
+msgstr ""
+
+#: autobrightness/brightness.py:54
+msgid "Adjusting brightness to %(percentage)d%% (%(value)d)"
+msgstr ""
+
+#: autobrightness/daemon.py:18
+msgid "Starting daemon..."
+msgstr ""
+
+#: autobrightness/daemon.py:35
+msgid "Shortcut key used."
+msgstr ""
+
+#: autobrightness/daemon.py:77
+msgid "No interval nor shortcut selected. "
+msgstr ""
+
+#: autobrightness/daemon.py:103
+msgid "Full screen check activated."
+msgstr ""
+
+#: autobrightness/daemon.py:113
+msgid "Detected full screen mode"
+msgstr ""
+
+#: autobrightness/daemon.py:119
+msgid "Exiting from full screen mode"
+msgstr ""
+
+#: autobrightness/gui/aboutwindow.py:12 autobrightness/gui/trayicon.py:30
+msgid "About"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:11
+msgid "Camera Test"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:56
+msgid "Image Brightness"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:57
+msgid "Backend"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:58
+msgid "Disable Auto Exposure"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:58
+msgid "not supported"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:58
+msgid "supported"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:59
+msgid "Properties"
+msgstr ""
+
+#: autobrightness/gui/camerawindow.py:60
+msgid "OpenCV Build Information"
+msgstr ""
+
+#: autobrightness/gui/logwindow.py:11
+msgid "Daemon Logs"
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:25
+msgid "disabled"
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:26
+msgid "seconds"
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:27
+msgid "minutes"
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:114
+msgid "Close this message and press a key or key combination. "
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:118
+msgid "Press again."
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:162
+msgid "Can't get frame from camera."
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:165
+msgid "Can't open device."
+msgstr ""
+
+#: autobrightness/gui/settingscontroller.py:172
+msgid "Will test min and max brightness via the selected backend."
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:12 autobrightness/gui/trayicon.py:22
+msgid "Settings"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:28
+msgid "Save"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:40
+msgid "Language:"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:50
+msgid "Backend:"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:55
+msgid "Test Backend"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:67
+msgid "Gain"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:78
+msgid "Test Camera"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:81
+msgid "Camera:"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:97
+msgid "Interval:"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:107
+msgid "Select Shortcut"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:111
+msgid "Shortcut:"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:117
+msgid "Max brightness on full screen"
+msgstr ""
+
+#: autobrightness/gui/settingswindow.py:121
+msgid "Set brightness on startup"
+msgstr ""
+
+#: autobrightness/gui/trayicon.py:26
+msgid "Daemon logs"
+msgstr ""
+
+#: autobrightness/gui/trayicon.py:34
+msgid "Quit"
+msgstr ""
